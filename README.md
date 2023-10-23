@@ -8,4 +8,6 @@ Pybank:
   For the max and min change in a month I just had to do the max of that list of the difference of months stored as amount. The real challenge was trying to get the month of that increase and decrease. How to get back the month this happened I didn't really know how to do. I noticed they used index which I do remember using in class. After looking back at the activities it seems house_of_pies_bonus_solution.py in lesson 3.2 used this as well. Looking into it more I was able to understand that amount (the change in months) indexed for either the max or min amount. Then I would need the upper bound for the month change. Then tying everything back to the months variable that was based on the months column let me get that correct month for both.
   The last part was easy, I just googled how to write a file in python and how to get a new line from these two sites: https://www.w3schools.com/python/python_file_write.asp and https://www.freecodecamp.org/news/print-newline-in-python/#:~:text=Using%20the%20escape%20character%20%5Cn,use%20a%20different%20escape%20sequence.
 
-  PyPoll
+PyPoll
+  https://www.javatpoint.com/numpy-unique for getting the unquie values of a column.
+  https://www.guru99.com/python-list-count.html#:~:text=Summary-,The%20count()%20is%20a%20built%2Din%20function%20in%20Python,method%20returns%20an%20integer%20value for counting.
