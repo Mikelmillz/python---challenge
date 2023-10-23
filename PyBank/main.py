@@ -49,7 +49,7 @@ print(f"Greatest Increase in Profits: {max_month} ({max_prof})")
 print(f"Greatest Decrease in Profits: {min_month} ({min_loss})")
 
 #creating a file with our output data
-file = open("Export.txt","w")
+file = open("analysis\Export.txt","w")
 file.write("Financial Analysis" + '\n')
 file.write(f"----------------------------\n")
 file.write(f"Total Months: {total_months}"+"\n")
