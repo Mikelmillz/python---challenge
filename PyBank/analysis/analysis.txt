@@ -1,0 +1,7 @@
+I just want to start off by noticing that nothing in the grading has any points assigned to this analysis. I still want to do it since this is what the class is about, but seems like an oversite.
+
+PyBank
+  From what I can gather, it seems that there is an overall net game of $2,2564,198 within the company from January of 2010 to February of 2017. I also see that the overall net change in profit month to month is $-8311.11, meaning they might still be gaining money overall, but they are losing how much this company is gaining per month overall. From the greatest gain to the biggest loss, they are about even. This indicates that it is a volitaile market with high highs and low lows since the average change per month is much lower than these numbers. I would like, if I was in this company, that the greatest profit is from 2016 and is more recent then the greatest loss, which is in 2014.
+
+PyPoll
+  
